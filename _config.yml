@@ -1,0 +1,4 @@
+theme: jekyll-theme-architect
+title: "Computação Visual"
+description: "Blog pessoal da disciplina Computação Visual"
+markdown: kramdown
