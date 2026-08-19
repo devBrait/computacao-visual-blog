@@ -10,4 +10,4 @@ layout: default
 
 Achei essa documentação muito interessante, explicando sobre o OpenGL
 
-https://www.psafe.com/blog/saiba-opengl-conheca-sua-nova-versao/
+<https://www.psafe.com/blog/saiba-opengl-conheca-sua-nova-versao/>
