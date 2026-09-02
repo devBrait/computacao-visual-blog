@@ -8,4 +8,4 @@ layout: default
 
 ***Vídeo "Como o computador processa uma imagem"***
 
-https://www.youtube.com/watch?v=4W_pKY5xGaQ
+<https://www.youtube.com/watch?v=4W_pKY5xGaQ>
