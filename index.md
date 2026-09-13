@@ -17,4 +17,4 @@ A proposta é explorar, ao longo do curso, assuntos relacionados à disciplina q
 1. [Primeiro post](post-01.md) (16/08/2026)
 2. [Segundo post](post-02.md) (18/08/2026)
 3. [Terceiro post](post-03.md) (01/09/2026)
-4. [Quarto post](post-04.md) (13-09-2026)
+4. [Quarto post](post-04.md) (13/09/2026)
