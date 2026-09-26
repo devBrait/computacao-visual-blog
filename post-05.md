@@ -13,6 +13,7 @@ A operação de filtragem exige que a imagem original não seja modificada. Por 
 Abaixo mostro uma estrutura conceitual de como um filtro de suavização calcularia a média aritmética dos pixels da vizinhança.
 
 ```cpp
+
 // Estrutura conceitual de um filtro de média 3x3
 for (int y = 1; y < height - 1; y++) {
     for (int x = 1; x < width - 1; x++) {
