@@ -6,7 +6,7 @@ layout: default
 
 26/09/2026
 
-No quarto post foquei bastante na teoria da filtragem espacial e em como uma máscara desliza sobre os pixels da imagem. Para consolidar esse conhecimento percebi que nada melhor do que observar como essa matriz se transforma na prática utilizando a lógica de programação em C++ que venho aplicando na disciplina no Mackenzie.
+No quarto post foquei bastante na teoria da filtragem espacial e em como uma máscara desliza sobre os pixels da imagem. Para consolidar esse conhecimento percebi que nada melhor do que observar como essa matriz se transforma na prática utilizando a lógica de programação em C++.
 
 A operação de filtragem exige que a imagem original não seja modificada. Por conta disso o meu primeiro passo no código é sempre ter uma nova estrutura de dados vazia. A nova imagem processada será gerada gradativamente à medida que o centro do filtro que programei percorre cada pixel da entrada.
 
